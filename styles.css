@@ -286,6 +286,7 @@ p{
     gap: 16px 32px;
     /* Styles were added here to arrange the content, I used grid */
     /* TO DO */
+}
 
 /* Contact Heading and Paragraph */
 #contact h3, #contact > p{
